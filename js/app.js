@@ -1,0 +1,1 @@
+var gunApp = angular.module('gunApp', ['ngRoute', 'ngResource']);
